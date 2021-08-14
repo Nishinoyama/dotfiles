@@ -1,0 +1,25 @@
+[user]
+
+	email = begoingto1414@gmail.com
+	name = Nishinoyama
+
+[alias]
+
+	lol = log --oneline --graph -n 20
+
+[core]
+	editor = vi
+
+[color]
+
+	ui = auto
+
+[color "branch"]
+
+	current = reverse
+	local = yellow
+	remote = red
+
+[color "status"]
+
+	branch = yellow
