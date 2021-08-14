@@ -1,0 +1,11 @@
+
+# ignore everything
+/*
+/.**
+
+# white list not to ignore
+!/.gitconfig
+
+!/README.md
+!/.gitignore
+
