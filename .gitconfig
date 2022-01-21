@@ -9,6 +9,7 @@
 
 [core]
 	editor = vi
+	autocrlf = input
 
 [color]
 
