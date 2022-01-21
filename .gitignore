@@ -9,4 +9,7 @@
 !/README.md
 !/.gitignore
 !/.zshrc
+!/.config
+!/.config/nvim
+!/.config/nvim/init.vim
 
