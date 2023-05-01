@@ -16,5 +16,6 @@
 !/.config/i3/config
 !/.bin/
 !/.bin/conky-i3bar
+!/.bin/dotfile_install.sh
 !/.conkyrc
 
